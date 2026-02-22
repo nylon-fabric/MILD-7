@@ -79,3 +79,6 @@ gemma_url = "./models/gemma"
 Models are loaded using local_files_only=True.   
 Model is reloaded per inference to avoid VRAM fragmentation under 8GB constraint.   
 Recommended GPU memory: 8GB+   
+
+## 🎥 Demo Video
+[https://youtu.be/SkzBbA5vVqg](https://youtu.be/SkzBbA5vVqg)
