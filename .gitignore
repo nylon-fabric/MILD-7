@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env
+venv/
+.venv/
+
+# Models
+models/
+*.safetensors
+*.bin
+*.pt
+.cache/
+
+# Old test code
+old/
+src/old/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
